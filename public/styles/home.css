@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+.a1
+{
+    width: 350px;
+    height: 300px;
+    margin: 150px auto;
+    background-color: antiquewhite;
+
+}
+.a1 a{
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-left: 20px;
+    position: relative;
+    top: 150px;
+    background-color: rgb(222, 222, 145);
+}
+#hd1{
+    position: relative;
+    left: 690px;
+    top: 150px;
+    margin-top: 0px;
+}

@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+}
+.user_list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.list{
+    background-color: aqua;
+    width: 300px;
+    margin:10px 10px;
+    padding: 10px;
+    
+}
+.list2{
+    width: 300px;
+    margin:10px 10px;
+    padding: 10px;
+   background-color: lightgrey;
+}
+.books_list{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+h1{
+ 
+}
